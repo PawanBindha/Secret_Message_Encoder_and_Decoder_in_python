@@ -18,8 +18,8 @@ This Python script encodes and decodes messages into a secret language using a s
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Secret-Message-Encoder--and-Decoder-in-python.git
-   cd Secret-Message-Encoder--and-Decoder-in-python 
+   git clone https://github.com/your-username/Secret_Message_Encoder_and_Decoder_in_python.git
+   cd Secret_Message_Encoder_and_Decoder_in_python
 
 ## Contributing  
 Feel free to submit issues or pull requests for improvements!  
