@@ -20,3 +20,6 @@ This Python script encodes and decodes messages into a secret language using a s
    ```bash
    git clone https://github.com/your-username/Secret-Message-Encoder--and-Decoder-in-python.git
    cd Secret-Message-Encoder--and-Decoder-in-python 
+
+## Contributing  
+Feel free to submit issues or pull requests for improvements!  
